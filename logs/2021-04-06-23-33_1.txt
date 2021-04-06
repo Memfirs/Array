@@ -1,0 +1,156 @@
+2021-04-06 22:40:52.981 [main] DEBUG by.ponomarenko.array.service.impl.ArrayReplacementServiceImpl - Array after replacement: [1, 4, 3, 5, 8]
+2021-04-06 22:40:53.006 [main] DEBUG by.ponomarenko.array.service.impl.ArrayReplacementServiceImpl - Array after replacement: [1, 4, 3, 5, 8]
+2021-04-06 22:40:53.012 [main] DEBUG by.ponomarenko.array.service.impl.ArrayReplacementServiceImpl - Array after replacement: [11, 0, 3, 5, 15]
+2021-04-06 22:40:53.020 [main] DEBUG by.ponomarenko.array.service.impl.ArrayReplacementServiceImpl - Array after replacement: [1, 4, 3, 5, 8]
+2021-04-06 23:12:07.742 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 7.125
+2021-04-06 23:12:07.751 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 1.8333333333333333
+2021-04-06 23:12:07.755 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 4.0
+2021-04-06 23:12:07.759 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 7.125
+2021-04-06 23:12:07.763 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 3.1666666666666665
+2021-04-06 23:12:07.767 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 4.0
+2021-04-06 23:12:07.774 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 7.125
+2021-04-06 23:12:07.777 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 1.8333333333333333
+2021-04-06 23:12:07.779 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 4.0
+2021-04-06 23:12:07.785 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 7.125
+2021-04-06 23:12:07.800 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 3.1666666666666665
+2021-04-06 23:12:07.803 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 4.0
+2021-04-06 23:12:07.816 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 53
+2021-04-06 23:12:07.818 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 11
+2021-04-06 23:12:07.823 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 4
+2021-04-06 23:12:07.828 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 53
+2021-04-06 23:12:07.830 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 14
+2021-04-06 23:12:07.836 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 4
+2021-04-06 23:12:07.844 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 53
+2021-04-06 23:12:07.850 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 11
+2021-04-06 23:12:07.852 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 4
+2021-04-06 23:12:07.859 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 53
+2021-04-06 23:12:07.861 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 14
+2021-04-06 23:12:07.863 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 4
+2021-04-06 23:12:07.870 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -12
+2021-04-06 23:12:07.872 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -9
+2021-04-06 23:12:07.875 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = 4
+2021-04-06 23:12:07.879 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -12
+2021-04-06 23:12:07.880 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -2
+2021-04-06 23:12:07.882 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = 4
+2021-04-06 23:12:07.891 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -12
+2021-04-06 23:12:07.895 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -9
+2021-04-06 23:12:07.898 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = 4
+2021-04-06 23:12:07.902 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -12
+2021-04-06 23:12:07.904 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -2
+2021-04-06 23:12:07.905 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = 4
+2021-04-06 23:12:07.923 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 3
+2021-04-06 23:12:07.926 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 1
+2021-04-06 23:12:07.929 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 0
+2021-04-06 23:12:07.935 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 1
+2021-04-06 23:12:07.937 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 2
+2021-04-06 23:12:07.941 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 0
+2021-04-06 23:12:07.948 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 3
+2021-04-06 23:12:07.951 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 1
+2021-04-06 23:12:07.953 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 0
+2021-04-06 23:12:07.956 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 1
+2021-04-06 23:12:07.961 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 2
+2021-04-06 23:12:07.964 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 0
+2021-04-06 23:12:07.976 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 4
+2021-04-06 23:12:07.981 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 3
+2021-04-06 23:12:07.989 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 4
+2021-04-06 23:12:07.993 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 4
+2021-04-06 23:12:07.997 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 3
+2021-04-06 23:12:08.004 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 4
+2021-04-06 23:12:08.021 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 4
+2021-04-06 23:12:08.024 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 3
+2021-04-06 23:12:08.027 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 4
+2021-04-06 23:12:08.031 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 4
+2021-04-06 23:12:08.035 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 3
+2021-04-06 23:12:08.038 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 4
+2021-04-06 23:12:08.049 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Sum of elements = 57
+2021-04-06 23:12:08.052 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Sum of elements = 11
+2021-04-06 23:12:08.054 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Sum of elements = 16
+2021-04-06 23:12:08.060 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Sum of elements = 57
+2021-04-06 23:12:08.063 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Sum of elements = 19
+2021-04-06 23:12:08.065 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Sum of elements = 16
+2021-04-06 23:12:08.067 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Sum of elements = 57
+2021-04-06 23:12:08.070 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Sum of elements = 11
+2021-04-06 23:12:08.071 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Sum of elements = 16
+2021-04-06 23:12:08.079 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Sum of elements = 57
+2021-04-06 23:12:08.080 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Sum of elements = 19
+2021-04-06 23:12:08.082 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Sum of elements = 16
+2021-04-06 23:21:37.929 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after bubble sort: [1, 2, 3, 4, 5]
+2021-04-06 23:21:37.947 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after bubble sort: [-2, 0, 2, 4, 6, 8]
+2021-04-06 23:21:37.951 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after bubble sort: [0, 0, 0]
+2021-04-06 23:33:27.905 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after bubble sort: [1, 2, 4, 5, 8]
+2021-04-06 23:33:27.914 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after bubble sort: [0, 2, 2, 4, 6, 8]
+2021-04-06 23:33:27.918 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after bubble sort: [1, 2, 3, 4, 5]
+2021-04-06 23:33:27.921 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after bubble sort: [-2, 0, 2, 4, 6, 8]
+2021-04-06 23:33:27.925 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after bubble sort: [0, 0, 0]
+2021-04-06 23:33:27.932 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after insertion sort: [1, 2, 4, 5, 8]
+2021-04-06 23:33:27.935 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after insertion sort: [0, 2, 2, 4, 6, 8]
+2021-04-06 23:33:27.938 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after insertion sort: [1, 2, 3, 4, 5]
+2021-04-06 23:33:27.941 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after insertion sort: [-2, 0, 2, 4, 6, 8]
+2021-04-06 23:33:27.944 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after insertion sort: [0, 0, 0]
+2021-04-06 23:33:27.955 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after IntStream sort: [5, 8, 4, 2, 1]
+2021-04-06 23:33:27.963 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after IntStream sort: [0, 6, 2, 8, 2, 4]
+2021-04-06 23:33:27.976 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after IntStream sort: [5, 3, 4, 2, 1]
+2021-04-06 23:33:27.988 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after IntStream sort: [0, 6, -2, 8, 2, 4]
+2021-04-06 23:33:28.002 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after IntStream sort: [0, 0, 0]
+2021-04-06 23:33:28.017 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after selection sort: [1, 2, 4, 5, 8]
+2021-04-06 23:33:28.023 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after selection sort: [0, 2, 2, 4, 6, 8]
+2021-04-06 23:33:28.028 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after selection sort: [1, 2, 3, 4, 5]
+2021-04-06 23:33:28.031 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after selection sort: [-2, 0, 2, 4, 6, 8]
+2021-04-06 23:33:28.036 [main] DEBUG by.ponomarenko.array.service.impl.ArraySortServiceImpl - Array after selection sort: [0, 0, 0]
+2021-04-06 23:33:37.297 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 7.125
+2021-04-06 23:33:37.308 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 1.8333333333333333
+2021-04-06 23:33:37.313 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 4.0
+2021-04-06 23:33:37.318 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 7.125
+2021-04-06 23:33:37.325 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 3.1666666666666665
+2021-04-06 23:33:37.340 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 4.0
+2021-04-06 23:33:37.350 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 7.125
+2021-04-06 23:33:37.353 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 1.8333333333333333
+2021-04-06 23:33:37.357 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 4.0
+2021-04-06 23:33:37.363 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 7.125
+2021-04-06 23:33:37.368 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 3.1666666666666665
+2021-04-06 23:33:37.372 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Average value of elements = 4.0
+2021-04-06 23:33:37.383 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 53
+2021-04-06 23:33:37.386 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 11
+2021-04-06 23:33:37.391 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 4
+2021-04-06 23:33:37.397 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 53
+2021-04-06 23:33:37.401 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 14
+2021-04-06 23:33:37.406 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 4
+2021-04-06 23:33:37.418 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 53
+2021-04-06 23:33:37.421 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 11
+2021-04-06 23:33:37.430 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 4
+2021-04-06 23:33:37.451 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 53
+2021-04-06 23:33:37.457 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 14
+2021-04-06 23:33:37.465 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array maximum value = 4
+2021-04-06 23:33:37.477 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -12
+2021-04-06 23:33:37.479 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -9
+2021-04-06 23:33:37.482 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = 4
+2021-04-06 23:33:37.487 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -12
+2021-04-06 23:33:37.489 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -2
+2021-04-06 23:33:37.491 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = 4
+2021-04-06 23:33:37.499 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -12
+2021-04-06 23:33:37.502 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -9
+2021-04-06 23:33:37.505 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = 4
+2021-04-06 23:33:37.508 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -12
+2021-04-06 23:33:37.511 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = -2
+2021-04-06 23:33:37.515 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Array minimum value = 4
+2021-04-06 23:33:37.524 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 3
+2021-04-06 23:33:37.527 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 1
+2021-04-06 23:33:37.530 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 0
+2021-04-06 23:33:37.534 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 1
+2021-04-06 23:33:37.536 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 2
+2021-04-06 23:33:37.539 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 0
+2021-04-06 23:33:37.543 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 3
+2021-04-06 23:33:37.548 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 1
+2021-04-06 23:33:37.550 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 0
+2021-04-06 23:33:37.553 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 1
+2021-04-06 23:33:37.556 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 2
+2021-04-06 23:33:37.558 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Negative elements count = 0
+2021-04-06 23:33:37.565 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 4
+2021-04-06 23:33:37.569 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 3
+2021-04-06 23:33:37.574 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 4
+2021-04-06 23:33:37.577 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 4
+2021-04-06 23:33:37.581 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 3
+2021-04-06 23:33:37.583 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 4
+2021-04-06 23:33:37.592 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 4
+2021-04-06 23:33:37.595 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 3
+2021-04-06 23:33:37.598 [main] DEBUG by.ponomarenko.array.service.impl.ArraySearchValueServiceImpl - Positive elements count = 4
